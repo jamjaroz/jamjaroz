@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on ... (A: Everyone but Can you teach or recommended programming to me? 😅)
 - 📫 How to reach me ... (A: On GitHub!!!)
 - 👍 I like memes.
-
 <center>
-  <img href="https://tenor.com/view/its-fine-dog-fine-dog-fire-meme-gif-16250404">
+  ![](https://c.tenor.com/MYZgsN2TDJAAAAAS/this-is.gif)
 </center>
