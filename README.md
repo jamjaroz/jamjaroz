@@ -7,5 +7,5 @@
 - 📫 How to reach me ... (A: On GitHub!!!)
 - 👍 I like memes.
 <center>
-  ![](https://c.tenor.com/MYZgsN2TDJAAAAAS/this-is.gif)
+  <img src="https://i.kym-cdn.com/entries/icons/facebook/000/018/012/this_is_fine.jpg">
 </center>
